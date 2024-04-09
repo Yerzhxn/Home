@@ -677,7 +677,7 @@ h3{
   margin-left: 50px;
 }
 .footer{
-
+  margin-top:0px;
   display: flex;
   margin-left: 65%;  
 }
