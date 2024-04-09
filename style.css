@@ -674,11 +674,11 @@ h3{
   padding-bottom: 50px;
 }
 .head{
-  margin-left: 20px;
+  margin-left: 50px;
 }
 .footer{
   position: fixed;
-  margin-top: 94vh;
+  margin-top: 90vh;
   display: flex;
   margin-left: 65%;  
 }
@@ -698,6 +698,12 @@ svg{
   width: 20px;
   height: 20px;
 }
-
+  h1{
+  font-size: 15px;
+}
+p{
+  font-size:12px;
+}
+  
 }
 
