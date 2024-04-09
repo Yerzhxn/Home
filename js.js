@@ -80,7 +80,7 @@ function typeWriter1(str, strId, a) {
 
 
 
-setTimeout(main, 1000)
+setTimeout(main, 9000)
 window.onload = typeWriter()
 
 
