@@ -647,6 +647,20 @@ body {
   padding-right: 50px;
 }
 
+.pho{
+  position: absolute;
+  color: white;
+  margin-top: -80px;
+  font-size: 20px;
+  display: none;
+}
+.svg{
+  padding: 0;
+  cursor: pointer;
+  background-color: rgb(0, 0, 0);
+  border: none;
+  z-index: 111;
+}
 @media (max-width: 450px) { 
   body{
     margin: 0;
@@ -707,20 +721,9 @@ svg{
 }
   .pho{
   font-size: 12px;
+  margin-top: -50px;
+
 }
 }
 
-.pho{
-  position: absolute;
-  color: white;
-  margin-top: -80px;
-  font-size: 20px;
-  display: none;
-}
-.svg{
-  padding: 0;
-  cursor: pointer;
-  background-color: rgb(0, 0, 0);
-  border: none;
-  z-index: 111;
-}
+
